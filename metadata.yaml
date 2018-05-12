@@ -1,4 +1,8 @@
 _repo: Agnes-Strickland-s-Queens-of-England-Vol-II-of-III-Abridged-and-Fully-Illustrated_47122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Strickland, Agnes
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '44144'
     url: http://www.gutenberg.org/2009/agents/44144
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47122#Agnes-Strickland-s-Queens-of-England-Vol-II-of-III-Abridged-and-Fully-Illustrated
 gutenberg_issued: '2014-10-15'
 gutenberg_type: Text
 identifiers:
